@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+.quadrado{
+    width: 200px; /*largura*/
+    height: 200px; /*altura*/
+    background-color: rgba(17, 16, 16, 0.884); /*cor*/
+    border-radius: 20px;
+    font-family: "Pixelify Sans", sans-serif;
+    text-align: center;
+    font-size: 120px;
+}
+/*personalizando a div*/
+.painel{
+    background-color: rgba(0, 0, 0, 0.219); /*cor de fundo*/
+    width: 1000px; /* largura*/
+    height: 700px; /*altura*/
+    margin: auto; /*centralizar*/
+    border-radius: 20px;
+    text-align: center;
+
+}
+.jogo{
+    margin: auto;
+    
+}
+h2{
+    color: aliceblue;
+    text-align: center; 
+}
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/04/09/70/87/360_F_409708782_HxuxOH8f7xSmj5p4ygbAbuJE74vGGj2N.jpg");
+    background-size:cover;
+}
+.botao{
+    background-color: blueviolet;
+    color: black;
+    border: nome ;
+    font-size: 50px;
+    margin: 30px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.texto{
+    font: size 40px;
+    color:aliceblue;
+    text-shadow:2px 2px 2px blue;
+}

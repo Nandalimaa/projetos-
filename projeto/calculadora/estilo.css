@@ -1,0 +1,47 @@
+.painel{
+    /*borda*/
+    border: 1px solid rgb(116, 10, 236);
+    /*alinhar texto no centro*/
+    text-align: center;
+    /*largura*/
+    width:400px;
+    /*cenralizar toda div*/
+    margin: auto;
+    /*altura*/
+    height: 400px;
+    /*arrendondar*/
+    border-radius:10x ;
+    /*fundo*/
+    background-color:rgb(183, 201, 221) ;
+    /*cor da letra*/
+    color:rgb(20, 25, 90);
+    /*tipo de fonte*/
+    font-family:Arial, Helvetica, sans-serif; 
+}
+input{
+    /*arrendondar*/
+    border-radius: 10px;
+    /*altura*/
+    height: 30px;
+    /*largura*/
+    width: 300px;
+    /*centraliza*/
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.botao{
+    background-color:rgb(0, 0, 0) ;
+    color:rgb(27, 114, 190);
+    border: none;
+    padding: 8px;
+
+     
+}
+.botao:hover{
+    background-color: aliceblue;
+    transition: 1s;
+}
+#resultado{
+    font-size: 50px;
+    font-weight: bold;
+} 
